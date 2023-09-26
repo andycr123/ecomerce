@@ -3,10 +3,13 @@
     border: 0;
     padding: 0;
     transition: all ease 0.95s; 
-    font-family: "Inter", sans-serif;
     box-sizing: border-box;
 }
-/*holaaaaaaaaaa*/
+
+html {
+    font-family: "Inter", sans-serif;
+}
+/*El cuerpo*/
 body {
     margin: 0 60px;
     box-sizing: border-box;
@@ -83,19 +86,6 @@ ul {
     color: black;
 }
 
-#LOGO{
-    color: black;
-    font-size: 32px;
-    font-family: Inter;
-    font-weight: 400;
-    word-wrap: break-word  
-}
-
-#pato {
-    
-}
-
-
 span {
     color: #ffff;
 }
@@ -112,7 +102,9 @@ a {
 }
 
 #logo {
-    width: 120px;
+    width: 40px;
+    height: 80px;
+    margin-top: 20px;
     display: block;
 }
 
