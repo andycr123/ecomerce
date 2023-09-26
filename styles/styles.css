@@ -83,6 +83,19 @@ ul {
     color: black;
 }
 
+#LOGO{
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word  
+}
+
+#pato {
+    
+}
+
+
 span {
     color: #ffff;
 }
