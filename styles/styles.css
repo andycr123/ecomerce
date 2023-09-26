@@ -11,10 +11,14 @@ body {
     margin: 0 60px;
     box-sizing: border-box;
     width: 100%;
-    height: 100%;
+    height: 100%; 
     background-color: white;
 }
-/**/
+/*text-one*/
+    .text-one {
+        font-size: 57px;
+    }
+
 header {
     display: flex;
     justify-content: space-between;
@@ -71,11 +75,15 @@ ul {
     background-color:#505050;
     border-radius: 10px;
     position: absolute;
-    z-index: 1;
+    z-index: -1;
     left: 595px;
 }
 
-#main-l2 {
+#main-12 {
+    color: black;
+}
+
+span {
     color: #ffff;
 }
 
