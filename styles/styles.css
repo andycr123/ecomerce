@@ -197,17 +197,13 @@ a {
     display: none;
     }
     
-   #logo-r {
-
-    }
-
     #logo-r{
     display: block;
     width: 150px;
     }
 
     #main-c2{
-    color: #ffff;
+    color: black;
     }
 
     .box-main {
