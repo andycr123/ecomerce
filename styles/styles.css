@@ -103,7 +103,6 @@ a {
 
 #logo {
     width: 40px;
-    
     height: 80px;
     margin-top: 20px;
     display: block;
@@ -132,7 +131,7 @@ a {
 @media screen and (max-width: 520px) {
     body {
     margin: 0 25px;
-    background-color: black;
+    background-color: white;
     }
 
     header {
@@ -180,6 +179,7 @@ a {
     #drc {
     display: none;
     }
+
     a {
     position: absolute;
     top: 50px;
@@ -188,13 +188,17 @@ a {
     #icon {
     position: absolute;
     top: 400px;
-    background-color: black;
-    color: burlywood;
-    fill: yellow;
+    background-color: white;
+    color: black;
+    fill: rgb(68, 241, 37);
     }
 
     #logo {
     display: none;
+    }
+    
+   #logo-r {
+
     }
 
     #logo-r{
@@ -207,8 +211,8 @@ a {
     }
 
     .box-main {
-    background-color: aliceblue;
+    background-color: #505050;
     box-shadow: 
-        0 0 40px #fff7008d, 0 0 80px rgba(255, 255, 0, 0.554);
+        0 0 40px white, 0 0 80px white;
     }
 }
